@@ -1,10 +1,11 @@
-const CACHE_NAME = "phase2-pwa-v4";
+const CACHE_NAME = "phase2-pwa-v5";
 const OFFLINE_FALLBACK = "./index.html";
 const CORE_ASSETS = [
   "./",
   "./index.html",
   "./manifest.json",
   "./icon.png",
+  "./data.js",
   "./schedule.pdf"
 ];
 
